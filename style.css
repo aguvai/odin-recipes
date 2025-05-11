@@ -6,9 +6,15 @@ body {
 
 .container {
     margin: 0 auto;
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(226, 226, 226);
     padding: 10px;
     width: 600px;
+}
+
+.header {
+    background-color: rgb(252, 252, 174);
+    text-align: center;
+    padding: 10px;
 }
 
 ul li {
@@ -21,5 +27,5 @@ a {
 }
 
 h1 {
-    margin-left: 18px;
+    margin: 0px;
 }
